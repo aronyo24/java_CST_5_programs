@@ -11,7 +11,7 @@ public class Main {
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery("SELECT * FROM student");
             while (resultSet.next()) {
-                System.out.println(resultSet.getInt(1) + " " + resultSet.getString(2) + " " + resultSet.getString(3)+ " "+ resultSet.getString(4)+ " ");
+                System.out.println(resultSet.getInt(1) + " " + resultSet.getString(2) + " " + resultSet.getString(3)+ " "+ resultSet.getString(4));
             }
             connection.close();
         } catch (ClassNotFoundException e) {

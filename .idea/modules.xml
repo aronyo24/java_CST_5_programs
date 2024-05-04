@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch_2_Method/ch_2_Method.iml" filepath="$PROJECT_DIR$/ch_2_Method/ch_2_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch_5_exception_h/ch_5_exception_h.iml" filepath="$PROJECT_DIR$/ch_5_exception_h/ch_5_exception_h.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch_6_JDBC/ch_6_JDBC.iml" filepath="$PROJECT_DIR$/ch_6_JDBC/ch_6_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch_7_swing/ch_7_swing.iml" filepath="$PROJECT_DIR$/ch_7_swing/ch_7_swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_CST_5_programs.iml" filepath="$PROJECT_DIR$/.idea/java_CST_5_programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch_1_class_obj/math/math.iml" filepath="$PROJECT_DIR$/ch_1_class_obj/math/math.iml" />
     </modules>
