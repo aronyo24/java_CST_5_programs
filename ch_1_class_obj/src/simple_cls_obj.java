@@ -13,12 +13,12 @@ public class simple_cls_obj {
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the value of a:");
-        int x=input.nextInt();
-        System.out.print("Enter the value of a:");
-        int y=input.nextInt();
+        int a=input.nextInt();
         System.out.print("Enter the value of b:");
+        int b=input.nextInt();
+      
 
-        obj.sum(x,y);
+        obj.sum(a,b);
 
 
     }
