@@ -14,9 +14,8 @@ class SubMath extends Math{
 }
 public class method_overriding {
     public static void main (String[]args){
-        Math obj1= new Math();
-        SubMath obj2 = new SubMath();
+        SubMath obj1 = new SubMath();
         obj1.Area(56,77);
-        obj2.Area(56);
+        obj1.Area(56);
     }
 }

@@ -1,5 +1,5 @@
-class math{
-    int a,b,c;
+class Math1{
+   // int a,b,c;
     public void calculation(int a,int b,int c){
         int mul = a*b*c;
         System.out.println(mul);
@@ -13,7 +13,7 @@ class math{
 }
 public class mathod_overloading {
     public static void main(String[]args){
-        math obj1 = new math();
+        Math1 obj1 = new Math1();
         obj1.calculation(7,8,9);
         obj1.calculation(9,7);
     }
